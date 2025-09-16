@@ -28,7 +28,7 @@ NEXTAUTH_SECRET = ZRLVspFqjXn8x5SB+FZyDbrBgUEM8zT9kDH/XIKHHLs=
 
 ### App Configuration (Update after deployment)
 ```
-NEXTAUTH_URL = https://your-project-name.vercel.app
+NEXTAUTH_URL = https://vercel.com/foundarv
 ```
 
 ---
