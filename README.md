@@ -59,9 +59,9 @@ An AI-powered, clutter-free document management system for individuals and start
    Fill in your environment variables:
    ```env
    # Supabase Configuration
-   NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
-   NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-   SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
+NEXT_PUBLIC_SUPABASE_URL=https://occtuvwtqfnggmaykvct.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9jY3R1dnd0cWZuZ2dtYXlrdmN0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTc5OTE5MjcsImV4cCI6MjA3MzU2NzkyN30.BXDB0IzefM7YvDFsw23FmihFCPxxJ1IMerzDLNqtCOM
+SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9jY3R1dnd0cWZuZ2dtYXlrdmN0Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1Nzk5MTkyNywiZXhwIjoyMDczNTY3OTI3fQ.ud5uohU5wI0NrEo7lkuYOaq--nU4LGgQ__eAdOAANjM
 
    # OpenAI Configuration
    OPENAI_API_KEY=your_openai_api_key
@@ -92,8 +92,8 @@ An AI-powered, clutter-free document management system for individuals and start
    ```
 
 5. **Start the development server**
-   ```bash
-   npm run dev
+```bash
+npm run dev
    ```
 
 6. **Open your browser**
